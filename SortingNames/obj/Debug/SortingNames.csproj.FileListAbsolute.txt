@@ -1,0 +1,12 @@
+C:\Users\damla\Desktop\SortingNames\SortingNames\bin\Debug\SortingNames.exe.config
+C:\Users\damla\Desktop\SortingNames\SortingNames\obj\Debug\SortingNames.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\SortingNames\SortingNames\bin\Debug\SortingNames.exe
+C:\Users\damla\Desktop\SortingNames\SortingNames\bin\Debug\SortingNames.pdb
+C:\Users\damla\Desktop\SortingNames\SortingNames\obj\Debug\SortingNames.exe
+C:\Users\damla\Desktop\SortingNames\SortingNames\obj\Debug\SortingNames.pdb
+C:\Users\damla\Desktop\Projects\SortingNames\SortingNames\bin\Debug\SortingNames.exe.config
+C:\Users\damla\Desktop\Projects\SortingNames\SortingNames\obj\Debug\SortingNames.exe
+C:\Users\damla\Desktop\Projects\SortingNames\SortingNames\obj\Debug\SortingNames.pdb
+C:\Users\damla\Desktop\Projects_C#\SortingNames\SortingNames\bin\Debug\SortingNames.exe.config
+C:\Users\damla\Desktop\Projects_C#\SortingNames\SortingNames\obj\Debug\SortingNames.exe
+C:\Users\damla\Desktop\Projects_C#\SortingNames\SortingNames\obj\Debug\SortingNames.pdb
